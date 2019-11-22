@@ -7,7 +7,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      name: 'React for yasar'
+      name: 'React for yaser'
     };
   }
 
